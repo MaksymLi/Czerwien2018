@@ -1,4 +1,5 @@
 import Formularz from './formularz.js'
+import './styles/panel-dolny.css'
 
 export default function PanelDolny() {
   return (

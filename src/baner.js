@@ -1,3 +1,5 @@
+import './styles/baner.css';
+
 export default function Baner(){
   return(
     <header>

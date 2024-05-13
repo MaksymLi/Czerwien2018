@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './styles/index.css';
 
 import Baner from './baner.js';
 import PanelLewy from './panel-lewy.js';

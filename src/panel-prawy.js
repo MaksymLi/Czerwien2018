@@ -1,3 +1,5 @@
+import './styles/panel-prawy.css';
+
 const lista = [
   {id: 1, text: 'Obiady od 40 zł'},
   {id: 2, text: 'Przekąski od 10 zł'},
